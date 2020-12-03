@@ -113,7 +113,7 @@ class DatabaseHandler(context: Context) :
         // Closing database connection
         db.close()
         return success
-
+ 
     }
 
 
